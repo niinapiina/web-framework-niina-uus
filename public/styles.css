@@ -28,3 +28,28 @@ h1 {
     font-family: 'Orbitron', sans-serif;
     text-transform: uppercase;
 }
+
+.movie-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.movie-card {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+    padding: 20px;
+    width: 280px;
+    backdrop-filter: blur(6px);
+}
+
+.movie-card h2 {
+    margin-top: 0;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.movie-card p {
+    margin: 8px 0;
+}
