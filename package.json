@@ -15,5 +15,13 @@
     "express": "^5.2.1",
     "express-handlebars": "^9.0.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niinapiina/web-framework-niina-uus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niinapiina/web-framework-niina-uus/issues"
+  },
+  "homepage": "https://github.com/niinapiina/web-framework-niina-uus#readme"
 }
